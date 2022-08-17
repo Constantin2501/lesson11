@@ -1,8 +1,12 @@
 const btn = document.querySelector('#btn')
 const range = document.querySelector('#range')
 const span = document.querySelector('#range-span')
+const eBtn = document.querySelector('#e_btn')
+const circle = document.querySelector('#circle')
+const square = document.querySelector('#square')
 
-e_btn.style = 'display: none'
+
+eBtn.style = 'display: none'
 span.textContent = 50 + '%'
 
 
